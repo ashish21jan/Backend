@@ -1,0 +1,14 @@
+{
+  "video_request": {
+    "subject": "Mathematics",
+    "grade": "10",
+    "topic": "Quadratic Equations",
+    "difficulty_level": "medium",
+    "target_duration": 600,
+    "language": "en",
+    "include_examples": true,
+    "include_practice": true,
+    "voice_style": "professional"
+  },
+  "description": "Sample input for creating a 10-minute educational video on Quadratic Equations for Grade 10 students. The system will automatically generate a comprehensive script, voiceover, visual assets, and metadata optimized for YouTube performance."
+}

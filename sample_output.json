@@ -1,0 +1,60 @@
+{
+  "video_response": {
+    "job_id": "a1b2c3d4-e5f6-7890-abcd-ef1234567890",
+    "status": "completed",
+    "message": "Video generation completed successfully",
+    "video_url": "./output/videos/video_a1b2c3d4e5f6.mp4",
+    "metadata": {
+      "title": "Master Quadratic Equations in 10 Minutes | Grade 10 Maths",
+      "description": "🎯 Learn Quadratic Equations step-by-step in this comprehensive Grade 10 Mathematics tutorial!\n\n📚 What You'll Learn:\n• Understanding quadratic equations\n• Standard form and coefficients\n• Factoring methods\n• Quadratic formula\n• Graphing parabolas\n• Real-world applications\n\n⏰ Timestamps:\n00:00 - Introduction\n01:30 - What are Quadratic Equations?\n03:00 - Standard Form\n04:30 - Factoring Methods\n06:00 - Quadratic Formula\n07:30 - Graphing\n09:00 - Practice Problems\n09:45 - Summary\n\n🎓 Perfect for Grade 10 students preparing for exams or anyone wanting to master quadratic equations!\n\n#QuadraticEquations #Grade10Math #Mathematics #AlgebraHelp #MathTutorial #EducationalVideo",
+      "tags": [
+        "quadratic equations",
+        "grade 10 math",
+        "mathematics",
+        "algebra",
+        "factoring",
+        "quadratic formula",
+        "parabolas",
+        "math tutorial",
+        "educational video",
+        "high school math",
+        "exam preparation",
+        "math help",
+        "vedantu",
+        "online learning",
+        "step by step"
+      ],
+      "category_id": 27,
+      "language": "en"
+    },
+    "quality_metrics": {
+      "educational_accuracy": 0.92,
+      "content_clarity": 0.88,
+      "engagement_potential": 0.85,
+      "technical_quality": 0.90,
+      "overall_score": 0.89,
+      "feedback": [
+        "Excellent educational content with clear explanations",
+        "Good pacing and structure",
+        "Effective use of examples and practice problems",
+        "High-quality audio and visuals",
+        "Well-optimized for YouTube performance"
+      ]
+    },
+    "performance_prediction": {
+      "estimated_views": 45000,
+      "estimated_engagement_rate": 0.048,
+      "estimated_retention_rate": 0.72,
+      "estimated_click_through_rate": 0.055,
+      "confidence_score": 0.83
+    }
+  },
+  "automation_benefits": {
+    "time_saved": "7.5 hours",
+    "cost_reduction": "85%",
+    "quality_consistency": "High",
+    "scalability": "3x production capacity",
+    "teacher_dependency_reduction": "70%"
+  },
+  "description": "Sample output showing the complete automated video generation result. The system produced a high-quality educational video with optimized metadata, quality assessment, and performance predictions, reducing production time from 8 hours to 30 minutes while maintaining educational standards."
+}
