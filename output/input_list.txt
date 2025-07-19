@@ -1,0 +1,12 @@
+file '/workspace/output/slides/slide_1.png'
+duration 5
+file '/workspace/output/slides/slide_2.png'
+duration 5
+file '/workspace/output/slides/slide_3.png'
+duration 5
+file '/workspace/output/slides/slide_4.png'
+duration 5
+file '/workspace/output/slides/slide_5.png'
+duration 5
+file '/workspace/output/slides/slide_6.png'
+duration 5
